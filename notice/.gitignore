@@ -1,4 +1,4 @@
 my_settings.py
-*.sqlite3
+db.sqlite3
 .env
 BASE_DIR
